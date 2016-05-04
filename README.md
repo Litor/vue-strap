@@ -1,4 +1,4 @@
-# vue-strap
+# vue-strap --liujun
 Bootstrap components built with Vue.js.
 
 This repository contains a set of native Vue.js components based on Bootstrap's markup and CSS. As a result no dependency on jQuery or Bootstrap's JavaScript is required. The only required dependencies are:
